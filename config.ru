@@ -141,7 +141,8 @@ map '/' do
       </a>
     </td>
   </tr>
-</table>  
+</table>
+  <h1>All good :)</h1>
   <h1>
     Welcome to Travis CI quickstart on OpenShift
   </h1>
